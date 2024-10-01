@@ -49,7 +49,7 @@ models = {
     "distil-large-v3": {
         "base": "mustafaaljadery/distil-whisper-mlx",
     },
-    "distil-large-v3-turbo": {
+    "whisper-large-v3-turbo": {
         "base": "mlx-community/whisper-large-v3-turbo",
     },
 }
